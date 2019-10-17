@@ -8,7 +8,7 @@
 |_|  |_|\__,_|/__//__/|_|  |_| \_,_| \__| \_,_|\__,_||_|  
                                                          
 
-*Queue appropriate 8-bit soundtrack*
+*Queue appropriate 8-bit soundtrack - also, please read this in your IDE of choice*
 
 Hello, and thank you for the opportunity to interview with MassMutual.
 
